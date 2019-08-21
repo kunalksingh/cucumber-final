@@ -11,7 +11,6 @@ import cucumber.api.junit.Cucumber;
                  dryRun=false,
                  monochrome=true,strict=false,tags={"@Smoke,@Sanity"})
 
-
 public class TestRunner {
 	
 	                           
