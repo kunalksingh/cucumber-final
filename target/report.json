@@ -1,0 +1,483 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 9373515421,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on add customer",
+            "match": {
+              "location": "AddCustomerSteps.user_click_on_add_customer()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 15697380778,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.beforeBackground()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "add customer flow",
+        "description": "",
+        "id": "telecome-feature;add-customer-flow",
+        "after": [
+          {
+            "result": {
+              "duration": 766745615,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6065865708,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user is filling all the fields",
+            "match": {
+              "location": "AddCustomerSteps.user_is_filling_all_the_fields1(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "kunal",
+                  "kumar",
+                  "kunalkumar90981@gmailcom",
+                  "chennai",
+                  "8608628990"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 171411399,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user click on submit button.",
+            "match": {
+              "location": "AddCustomerSteps.user_click_on_submit_button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Smoke,"
+          },
+          {
+            "name": "@Sanity"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 8345079492,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on add customer",
+            "match": {
+              "location": "AddCustomerSteps.user_click_on_add_customer()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9982825283,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.beforeBackground()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "add customer flow",
+        "description": "",
+        "id": "telecome-feature;add-customer-flow",
+        "after": [
+          {
+            "result": {
+              "duration": 719588767,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4604185227,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user is filling all the fields.",
+            "match": {
+              "location": "AddCustomerSteps.user_is_filling_all_the_fields2(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "fname",
+                  "kunal"
+                ]
+              },
+              {
+                "cells": [
+                  "lname",
+                  "Kumar"
+                ]
+              },
+              {
+                "cells": [
+                  "email",
+                  "Kumarkunal@gmail.com"
+                ]
+              },
+              {
+                "cells": [
+                  "address",
+                  "Salem"
+                ]
+              },
+              {
+                "cells": [
+                  "phone",
+                  "1234567890"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3808764843,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user click on submit button.",
+            "match": {
+              "location": "AddCustomerSteps.user_click_on_submit_button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Smoke,"
+          },
+          {
+            "name": "@Sanity"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4117726554,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on add customer",
+            "match": {
+              "location": "AddCustomerSteps.user_click_on_add_customer()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10981463197,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.beforeBackground()"
+            }
+          }
+        ],
+        "line": 24,
+        "name": "Add customer flow",
+        "description": "",
+        "id": "telecome-feature;add-customer-flow",
+        "after": [
+          {
+            "result": {
+              "duration": 770073150,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9614639019,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "user is filling details in all the fields",
+            "match": {
+              "location": "AddCustomerSteps.user_is_filling_details_in_all_the_fields(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Kunal",
+                  "Kumar",
+                  "Kumarkunal@gmail.com",
+                  "Salem",
+                  "1234567890"
+                ]
+              },
+              {
+                "cells": [
+                  "Pari",
+                  "parashar",
+                  "pari001@gmail.com",
+                  "Thirupur",
+                  "4567890123"
+                ]
+              },
+              {
+                "cells": [
+                  "Ramesh",
+                  "Kumar",
+                  "RameshRaj@gmail.com",
+                  "Erode",
+                  "5678901234"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3547969138,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "user click on submit button.",
+            "match": {
+              "location": "AddCustomerSteps.user_click_on_submit_button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Smoke,"
+          },
+          {
+            "name": "@Sanity"
+          }
+        ]
+      }
+    ],
+    "name": "Telecome feature",
+    "description": "  I want to use this template for my feature file",
+    "id": "telecome-feature",
+    "keyword": "Feature",
+    "uri": "src/test/resources/AddCustomer.feature",
+    "tags": [
+      {
+        "name": "@Smoke,",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@Sanity",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 9
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6706619962,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on add tarrif",
+            "match": {
+              "location": "AddTarrifSteps.user_click_on_add_tarrif()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10860747195,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.beforeBackground()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "Add Tariff Details",
+        "description": "",
+        "id": "tarrif-plan;add-tariff-details",
+        "after": [
+          {
+            "result": {
+              "duration": 746108408,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7561556146,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user is filling all the fields one dimension list",
+            "match": {
+              "location": "AddTarrifSteps.user_is_filling_all_the_fields_one_dimension_list(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "250",
+                  "150",
+                  "60",
+                  "200",
+                  "1",
+                  "5",
+                  "3"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 271813439,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User click on submit",
+            "match": {
+              "location": "AddTarrifSteps.user_click_on_submit()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Smoke,"
+          },
+          {
+            "name": "@Sanity"
+          }
+        ]
+      }
+    ],
+    "name": "Tarrif plan",
+    "description": "  I want to use this template for my feature file",
+    "id": "tarrif-plan",
+    "keyword": "Feature",
+    "uri": "src/test/resources/AddTariff.feature",
+    "tags": [
+      {
+        "name": "@Smoke,",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@Sanity",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 9
+        }
+      }
+    ]
+  }
+]

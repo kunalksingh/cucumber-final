@@ -1,0 +1,9 @@
+com\objectrepository\HomePage.class
+com\resource\FunctionalLibrary.class
+com\stepdefinition\AddCustomerSteps.class
+com\stepdefinition\AddTarrifSteps.class
+com\stepdefinition\TestRunner.class
+com\objectrepository\AddCustomer.class
+com\stepdefinition\Hook.class
+com\objectrepository\AddTarrif.class
+com\stepdefinition\TestReRunner.class
